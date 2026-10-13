@@ -26,11 +26,11 @@ Then open the url that pops up (it should look like this: http://127.0.0.1:5000)
 
 
 for the .env file, have the following details:
-PLIVO_AUTH_ID=MAMTAWMGI0MZCTNTYZZS
-PLIVO_AUTH_TOKEN=ZDRmNzIxMTgtNWE5Mi00ZDE3LWI2NmMtMmNiZGE4
-PLIVO_NUMBER=918035454161
-ASSOCIATE_NUMBER=912264236412
-BASE_URL=https://oval-rentable-overfeed.ngrok-free.dev
-OTP=0303
+PLIVO_AUTH_ID=
+PLIVO_AUTH_TOKEN=
+PLIVO_NUMBER=
+ASSOCIATE_NUMBER=
+BASE_URL=
+OTP=1111
 AUDIO_URL=https://s3.amazonaws.com/plivocloud/Trumpet.mp3
 
